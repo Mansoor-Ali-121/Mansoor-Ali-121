@@ -1,12 +1,12 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=220&section=header&text=Mansoor%20Ali&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=220&section=header&text=Mansoor%20Ali&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Laravel&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <!-- ================= TYPING ================= -->
 <div align="center">
   <a href="https://github.com/Mansoor-Ali-121">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mansoor+Ali+%F0%9F%91%8B;2%2B+Years+of+Full+Stack+Experience;Laravel+%7C+React.js+%7C+Node.js;Learning+AI+%26+Data+Science+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mansoor+Ali+%F0%9F%91%8B;2%2B+Years+of+Full+Stack+Experience;Laravel;Learning+AI+%26+Data+Science+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 

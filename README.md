@@ -92,7 +92,7 @@
 <br>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/38BDF8/Mansoor-Ali-121" width="100%" alt="Mansoor Ali's Github chart" />
+  <img src="https://raw.githubusercontent.com/Mansoor-Ali-121/Mansoor-Ali-121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
 ---

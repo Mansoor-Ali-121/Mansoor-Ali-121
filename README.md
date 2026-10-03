@@ -69,8 +69,8 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python" title="Python" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy" title="NumPy" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas" title="Pandas" />
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="45" alt="Matplotlib" title="Matplotlib" />
-  <img src="https://cdn.simpleicons.org/seaborn/3776AB" height="45" alt="Seaborn" title="Seaborn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="45" width="45" alt="Matplotlib" title="Matplotlib" />
+  <img src="https://api.iconify.design/devicon:seaborn.svg" height="45" width="45" alt="Seaborn" title="Seaborn" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="Scikit-learn" title="Scikit-learn" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="45" alt="Jupyter" title="Jupyter" />
 </div>

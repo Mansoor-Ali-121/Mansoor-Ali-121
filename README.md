@@ -35,14 +35,14 @@
     <td width="50%" valign="top">
       <br>
       <p>👨‍💻 I am a passionate <b>Full Stack Web Developer</b> with <b>2+ years of experience</b> building robust web applications.</p>
-      <p>🚀 Currently focusing on <b>Laravel</b>, <b>React.js</b>, and <b>Node.js</b> to create seamless digital experiences.</p>
+      <p>🚀 Currently focusing on <b>Laravel</b>, <b>Rest APIs</b> to create seamless digital experiences.</p>
       <p>🤖 I am actively expanding my skillset by learning <b>AI & Data Science</b> to build smarter applications.</p>
       <p>💡 I love turning complex problems into simple, beautiful, and intuitive designs.</p>
     </td>
     <td width="50%" valign="top">
       <br>
       <ul>
-        <li>🔭 <b>Currently working on:</b> React.js, Node.js, Laravel</li>
+        <li>🔭 <b>Currently working on:</b> Laravel </li>
         <li>🌱 <b>Learning:</b> Python, NumPy, Pandas, Matplotlib, Seaborn, ML</li>
         <li>💬 <b>Ask me about:</b> HTML, CSS, JS, Bootstrap, Tailwind, PHP, Laravel</li>
         <li>✉️ <b>Reach me at:</b> devmansoor0@gmail.com</li>
